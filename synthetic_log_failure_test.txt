@@ -1,0 +1,1 @@
+This is a bad log file, something random that fails

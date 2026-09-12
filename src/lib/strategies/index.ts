@@ -1,0 +1,8 @@
+export { humidity } from './humidity'
+export { monoxide } from './monoxide'
+export { noise } from './noise'
+export { perReadingStrategy } from './perReading'
+export { STRATEGIES, isSensorType, strategyFor } from './registry'
+export { thermometer } from './thermometer'
+export { unregistered } from './unregistered'
+export type { PerReadingConfig, PerReadingThresholdKey } from './types'
